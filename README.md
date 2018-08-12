@@ -18,7 +18,9 @@ docker build -t helloworld .
 docker images
 
 docker run helloworld
+
 Output: Hello, World
+
 -----------------------------------------------
 
 # Docker login:
